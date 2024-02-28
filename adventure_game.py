@@ -1,4 +1,4 @@
-# Prateek Thakur 2024
+# Tanu Chouhan 2024
 # Text based adventure game
 
 weapon = False
